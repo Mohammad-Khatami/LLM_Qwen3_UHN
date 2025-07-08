@@ -11,8 +11,8 @@ This repository contains the code, data, and fine-tuned models for extracting st
 │   ├── modified_train_test.xlsx # Cleaned dataset used for fine-tuning
 │   └── report_MKhatami.xlsx     # Inference results and prompt trials
 ├── notebooks/
-│   ├── zero_shot_analysis.ipynb # Colab notebook for zero-shot experiments and metrics
-│   └── fine_tuning.ipynb        # Colab notebook for LoRA/DoRA training and evaluation
+│   ├── Zero_shot.ipynb # Colab notebook for zero-shot experiments and metrics
+│   └── Fine_tuning.ipynb        # Colab notebook for LoRA/DoRA training and evaluation
 ├── README.md                    # This file
 └── requirements.txt             # Python dependencies (transformers, peft, datasets, torch)
 ```
