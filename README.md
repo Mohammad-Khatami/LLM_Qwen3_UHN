@@ -30,4 +30,4 @@ Access and download these models at: https://huggingface.co/mhkh2976/Qwen3_fine_
 ---
 ## For questions or further information, please reach out to:
 
-Mohammad Khatami, GitHub: @mhkh2976
+Mohammad Khatami, email: mhkh2976@gmail.com
